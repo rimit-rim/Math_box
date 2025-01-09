@@ -5,5 +5,5 @@ def subtract(a, b):
   return a-b
 def multyply(a, b):
   return a*b
-def divide(a, b):
+def divide_new(a, b):
     return a/b
